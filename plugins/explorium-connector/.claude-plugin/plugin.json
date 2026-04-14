@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "description": "Explorium B2B intelligence — enrich companies, find prospects, track business events. Includes Web-Search-Events: AI-powered deep event discovery from web sources.",
   "author": {
-    "name": "Noam Tidhar"
+    "name": "Noam Tidhar DATADATA"
   },
   "keywords": ["explorium", "b2b", "enrichment", "company-data", "prospects", "web-search-events"],
   "mcpServers": "./.mcp.json"
