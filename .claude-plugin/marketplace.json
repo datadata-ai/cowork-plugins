@@ -1,0 +1,11 @@
+{
+  "name": "DATADATA Cowork Plugins",
+  "description": "Cowork plugins by DATADATA — B2B intelligence, research, and data workflows.",
+  "plugins": [
+    {
+      "name": "explorium-connector",
+      "description": "Explorium B2B intelligence — enrich companies, find prospects, track business events. Includes Web-Search-Events: AI-powered deep event discovery from web sources.",
+      "source": "./plugins/explorium-connector"
+    }
+  ]
+}
