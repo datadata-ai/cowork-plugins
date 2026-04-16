@@ -1,5 +1,4 @@
 ---
-name: explorium-research
 description: "Use Explorium B2B intelligence tools to research companies, enrich business data, find prospects, and track business events. Includes Web-Search-Events — an AI-powered deep scan that discovers M&As, partnerships, and deals from web sources that structured data misses. Trigger when user asks to 'research a company', 'enrich company data', 'find prospects', 'look up business info', 'company intelligence', or 'business events'."
 ---
 
