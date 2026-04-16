@@ -3,19 +3,15 @@
   "name": "cowork-plugins",
   "description": "Cowork plugins by DATADATA — no terminal, no coding required.",
   "owner": {
-    "name": "Noam Tidhar DATADATA",
+    "name": "Noam Tidhar",
     "email": "noam@data-data.ai"
   },
   "plugins": [
     {
       "name": "explorium-connector",
-      "description": "Explorium B2B intelligence — enrich companies, find prospects, track business events. Includes Web-Search-Events: AI-powered deep event discovery from web sources.",
+      "description": "Explorium B2B intelligence — enrich companies, find prospects, track business events.",
       "category": "productivity",
-      "source": {
-        "source": "git-subdir",
-        "url": "datadata-ai/cowork-plugins",
-        "path": "plugins/explorium-connector"
-      },
+      "source": "./plugins/explorium-connector",
       "homepage": "https://github.com/datadata-ai/cowork-plugins"
     }
   ]
