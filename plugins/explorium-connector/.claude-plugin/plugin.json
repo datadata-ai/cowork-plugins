@@ -1,6 +1,7 @@
 {
   "name": "explorium-connector",
   "description": "Explorium B2B intelligence — enrich companies, find prospects, track business events.",
+  "version": "0.2.0",
   "author": {
     "name": "Noam Tidhar",
     "email": "noam@data-data.ai"
