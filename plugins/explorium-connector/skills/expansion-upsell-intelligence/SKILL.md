@@ -1,5 +1,4 @@
 ---
-name: expansion-upsell-intelligence
 description: "Generates a Strategic Expansion Brief for a single target account by combining Explorium expansion signals with seller context. Trigger when user asks to 'run expansion brief', 'find upsell opportunities for [company]', 'expansion intelligence', 'check expansion signals for [company]', or 'upsell brief'."
 ---
 
